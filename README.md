@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+Quick facts:
+
 - 🔭 I'm mostly working on work related projects.
 - 🤐 I'm an active GitLab user...
-- 🎓 I'm currently learning CAD drawing.
+- 🎓 I'm currently learning CAD.
+- 💬 Ask me about this custom profile page.
 
 <!--
 **niikoo/niikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
