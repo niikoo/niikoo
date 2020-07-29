@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I'm mostly working on work related projects.
-🤐 I'm an active GitLab user...
-🎓 I'm currently learning CAD drawing.
+- 🔭 I'm mostly working on work related projects.
+- 🤐 I'm an active GitLab user...
+- 🎓 I'm currently learning CAD drawing.
 
 <!--
 **niikoo/niikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
