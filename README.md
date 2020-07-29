@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! Remember to wash your hands before entering 👋
+
+Help limit the spread of covid-19! 🤗
 
 Quick facts:
 
