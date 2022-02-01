@@ -8,9 +8,9 @@ Remember to wash your hands before entering here, then we can all help limit the
 
 Quick facts:
 
-- 🔭 I'm mostly working on work related projects.
+- 🔭 I'm mostly working on non-publicwork related projects.
 - 🤐 I'm an active GitLab user...
-- 🎓 I'm currently learning CAD.
+- 🎓 I'm currently learning ...
 - 💬 You may ask me about this custom profile page.
 - 🗣️ Reach me by creating an issue [here](https://github.com/niikoo/niikoo/issues).
 
