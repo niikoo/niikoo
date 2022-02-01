@@ -4,7 +4,7 @@
 
 ### `cat /etc/banner`
 
-Remember to wash your hands before entering here, then we can all help limit the spread of covid-19!  🤗
+
 
 Quick facts:
 
